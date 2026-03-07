@@ -46,13 +46,6 @@ apple-tech-evolution
 ├── js
 │   └── script.js
 │
-├── img
-│   ├── hero
-│   ├── iphone
-│   ├── macbook
-│   ├── ipad
-│   └── watch
-│
 └── README.md
 ```
 
