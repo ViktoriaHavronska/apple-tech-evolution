@@ -5,108 +5,68 @@ This project highlights Apple's most revolutionary products such as the **iPhone
 
 The website is inspired by the design philosophy of **minimalism, clarity, and elegance**, similar to Apple's official website, but with additional features and creative innovations.
 
----
-
 ## Features
 
-* Apple-style modern UI design
-* Pages dedicated to different Apple devices
-* Device evolution timeline
-* Apple statistics and technology insights
-* Search functionality for devices
-* Smooth animations and transitions
-* Responsive layout using Bootstrap
-
----
+- Apple-style landing page
+- Device pages for:
+  - iPhone
+  - MacBook
+  - iPad
+  - Apple Watch
+- Device cards with descriptions
+- Device detail pages (example: iPhone 15)
+- Interactive Apple timeline
+- Statistics dashboard with charts
+- "More Info" modals for statistics explanations
+- Global device search
+- Page device search
+- Scroll animations (fade-in)
+- Responsive navigation bar
+- Apple-style hero section
+- Footer with project information
 
 ## Technologies Used
 
-* **HTML5**
-* **CSS3**
-* **JavaScript**
-* **Bootstrap 5**
-
----
-
-## Project Structure
-
-```
-apple-tech-evolution
-│
-├── index.html
-├── iphone.html
-├── macbook.html
-├── ipad.html
-├── watch.html
-├── stats.html
-│
-├── css
-│   └── style.css
-│
-├── js
-│   └── script.js
-│
-└── README.md
-```
-
----
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
+- Chart.js
 
 ## Pages
 
-### Home
+- `index.html` — main landing page
+- `iphone.html` — iPhone models
+- `macbook.html` — MacBook models
+- `ipad.html` — iPad models
+- `watch.html` — Apple Watch models
+- `stats.html` — Apple statistics and charts
+- `iphone15.html` — example device detail page
 
-Overview of Apple innovations and featured devices.
+## Statistics Included
 
-### iPhone
+- iPhone Sales Growth
+- Apple Revenue
+- Mac Sales
+- Apple Watch Growth
 
-Timeline and history of iPhone models from the first iPhone to the latest generation.
+Charts are built using **Chart.js**.
 
-### MacBook
+## Project Purpose
 
-Evolution of MacBook devices and Apple Silicon technology.
+This project was created as a **learning portfolio project** to practice:
 
-### iPad
-
-Overview of iPad models and their innovations.
-
-### Apple Watch
-
-Development of Apple Watch and its impact on health and fitness technology.
-
-### Statistics
-
-Interactive statistics about Apple devices, market share, and technological growth.
-
----
-
-## Design Inspiration
-
-The design of this project is inspired by Apple's philosophy:
-
-* Minimalistic layouts
-* Large product visuals
-* Clean typography
-* Smooth animations
-* Elegant spacing
-
----
-
-## Purpose of the Project
-
-This project was created as part of my **front-end development learning journey** to practice:
-
-* building multi-page websites
-* responsive design
-* modern UI layout
-* JavaScript interactivity
-* Bootstrap components
-
----
+- front-end development
+- responsive design
+- JavaScript functionality
+- UI components
+- data visualization
 
 ## Future Improvements
 
-* Advanced device search
-* Interactive product comparison
-* Animated timelines
-* API integration for real statistics
-* Dark / light mode
+Possible future upgrades:
+
+- more device detail pages
+- advanced search
+- better animations
+- additional Apple product categories
