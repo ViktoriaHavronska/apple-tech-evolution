@@ -192,3 +192,33 @@ body {
     opacity: 1;
     transform: translateY(0);
 }
+
+/* DEVICES */
+.device-hero {
+    padding: 150px 0 80px;
+    background: #f5f5f7;
+}
+
+.device-specs {
+    padding: 80px 0;
+}
+
+/* NAVIGATION */
+.device-navigation {
+    padding: 60px 0;
+    background: #f5f5f7;
+}
+
+/* FEATURES */
+.device-features {
+    padding: 80px 0;
+    background: white;
+}
+
+/* FOOTER */
+.site-footer {
+    padding: 40px 0;
+    background: #1d1d1f;
+    color: white;
+    margin-top: 60px;
+}
