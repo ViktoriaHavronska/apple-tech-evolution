@@ -1,72 +1,71 @@
-# 🍎 Apple Tech Evolution
+# 🍎 Apple Tech Evolution — Interactive Timeline
 
-A modern Apple-style website showcasing the evolution of Apple devices and technologies.
-This project highlights Apple's most revolutionary products such as the **iPhone, MacBook, iPad, and Apple Watch**, along with their history, innovations, and impact on the tech industry.
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Role](https://img.shields.io/badge/Role-Developer%20%26%20PM-blue)
+![Stack](https://img.shields.io/badge/Stack-Frontend-lightgrey)
 
-The website is inspired by the design philosophy of **minimalism, clarity, and elegance**, similar to Apple's official website, but with additional features and creative innovations.
+> An interactive visual timeline of Apple's key product and technology milestones from 1976 to present.
 
-## Features
+---
 
-- Apple-style landing page
-- Device pages for:
-  - iPhone
-  - MacBook
-  - iPad
-  - Apple Watch
-- Device cards with descriptions
-- Device detail pages (example: iPhone 15)
-- Interactive Apple timeline
-- Statistics dashboard with charts
-- "More Info" modals for statistics explanations
-- Global device search
-- Page device search
-- Scroll animations (fade-in)
-- Responsive navigation bar
-- Apple-style hero section
-- Footer with project information
+## 🎯 Product Goal
 
-## Technologies Used
+Create an engaging, educational web experience that tells the story of Apple's technological evolution — designed for tech enthusiasts, students, and anyone curious about how Apple shaped modern computing.
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap 5
-- Chart.js
+**Target users:** CS students, tech history enthusiasts, general public.
 
-## Pages
+---
 
-- `index.html` — main landing page
-- `iphone.html` — iPhone models
-- `macbook.html` — MacBook models
-- `ipad.html` — iPad models
-- `watch.html` — Apple Watch models
-- `stats.html` — Apple statistics and charts
-- `iphone15.html` — example device detail page
+## 🧩 Problem & Solution
 
-## Statistics Included
+| Problem | Solution |
+|---|---|
+| Apple's history is scattered across Wikipedia articles | Single, curated interactive timeline |
+| Text-heavy history pages are hard to scan | Visual-first design with milestones |
+| Hard to understand how products connect over time | Chronological flow with context |
 
-- iPhone Sales Growth
-- Apple Revenue
-- Mac Sales
-- Apple Watch Growth
+---
 
-Charts are built using **Chart.js**.
+## ✅ Feature Prioritization (MoSCoW)
 
-## Project Purpose
+| Feature | Priority | Reasoning |
+|---|---|---|
+| Chronological timeline of milestones | 🔴 Must-have | Core content delivery |
+| Interactive navigation | 🔴 Must-have | User engagement |
+| Visual product imagery | 🟠 Should-have | Emotional connection |
+| Filtering by decade or category | 🟡 Could-have | Power user navigation |
+| Mobile-responsive layout | 🟠 Should-have | Accessibility |
 
-This project was created as a **learning portfolio project** to practice:
+---
 
-- front-end development
-- responsive design
-- JavaScript functionality
-- UI components
-- data visualization
+## 🗂 Project Scope
 
-## Future Improvements
+- **Type:** Solo frontend + PM
+- **Duration:** ~4–5 days
+- **Methodology:** Kanban
+- **Scope:** MVP — timeline, interactivity, visual design
 
-Possible future upgrades:
+### Content Decisions Made as PM
+- Curated milestones to avoid information overload (quality over quantity)
+- Focused on *product* milestones rather than financial/business events
+- Chose a visual-first layout to differentiate from Wikipedia
 
-- more device detail pages
-- advanced search
-- better animations
-- additional Apple product categories
+### Out of Scope (future backlog)
+- [ ] Quiz mode ("Which year was the iPhone released?")
+- [ ] Comparison mode (Apple vs competitors timeline)
+- [ ] User-submitted milestones
+- [ ] Animated transitions between eras
+
+---
+
+## 🧠 What I Learned as PM
+
+- How content strategy is a PM decision, not just an editorial one
+- How to balance depth vs. simplicity in information design
+- How to define a clear target audience before designing a feature
+
+---
+
+## 👤 Author
+
+**Viktoria Havronska** — Junior Project Manager & Frontend Developer  
